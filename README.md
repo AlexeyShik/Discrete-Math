@@ -11,3 +11,5 @@
 ### Third Term
  1. [Graphs](https://github.com/AlexeyShik/Discrete-Math/tree/master/Term3/laboratory-work-Graphs)  
  2. [Matroids](https://github.com/AlexeyShik/Discrete-Math/tree/master/Term3/laboratory-work-Matroids)  
+### Fourth Term  
+ 1. [Generating Functions](https://github.com/AlexeyShik/Discrete-Math/tree/master/Term4/laboratory-work-GeneratingFunctions)
